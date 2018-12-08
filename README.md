@@ -1,4 +1,4 @@
 # game_of_life
-### Author: wisemonkey
+### Author: TheTornadoTitan
 Date: 20181206
 "# p5js-conways-game-of-life" 
